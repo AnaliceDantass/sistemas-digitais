@@ -12,4 +12,4 @@ associados à sequências numéricas, obtida a partir da observação de um fen�
 ## grandezas analógicas
 
 ## referências:
-https://www.ibytes.com.br/eletronica-digital-e-analogica-diferencas-vantagens
+[Digital VS Analógico](https://www.ibytes.com.br/eletronica-digital-e-analogica-diferencas-vantagens)
