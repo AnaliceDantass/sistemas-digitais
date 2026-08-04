@@ -18,6 +18,10 @@ Portanto, a eletrônica digital é como o "cérebro" por trás dos dispositivos 
 ### Sinais digitais:
 Quando o sinal (sua amplitude) sempre se mantêm constante durante um intervalo de tempo, ele é dito como digital. A transmissão de sinais digitais utiliza intervalos de tempo de mesma duração (chamado de intervalo de sinalização), e em cada intervalo o sinal pode ter um valor diferente, mas que é fixo dentro do intervalo.
 
+<p align="center">
+  <img src="/imgs/"
+</p>
+
 ## Eletrônica analógica:
 Envolve grandezas com valores contínuos.
 
